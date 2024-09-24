@@ -5,11 +5,11 @@ ABC Banking Capital wants to identify and understand their customers better to d
 
 - **Objective of the problem:** The objective of this problem is to predict the credit amount of each customer.
 - **Features:** The data given is of credit records of individuals with certain attributes
-- a.  serial number : unique identification key
-b. account_info : Categorized details of existing accounts of the individuals. The balance of money in account provided is stated by this variable
-c. duration_month : Duration in months for which the credit is existing
-d. credit_history : This categorical variable signifies the credit history of the individual who has taken the loan
-    A30 signifies that no previous loans has been taken or all loans taken have been payed back.
+- a.  serial number : unique identification key  
+b. account_info : Categorized details of existing accounts of the individuals. The balance of money in account provided is stated by this variable  
+c. duration_month : Duration in months for which the credit is existing  
+d. credit_history : This categorical variable signifies the credit history of the individual who has taken the loan  
+    A30 signifies that no previous loans has been taken or all loans taken have been payed back.  
     A31 signifies that all loans from the current bank has been payed off. Loan information of other banks are not available.
     A32 signifies loan exists but till now regular installments have been payed back in full amount.
     A33  signifies that significant delays have been seen in repayment of loan installments.
