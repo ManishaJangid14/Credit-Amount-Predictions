@@ -5,7 +5,7 @@ ABC Banking Capital wants to identify and understand their customers better to d
 
 - **Objective of the problem:** The objective of this problem is to predict the credit amount of each customer.
 - **Features:** The data given is of credit records of individuals with certain attributes
-- a.  serial number : unique identification key  
+a.  serial number : unique identification key  
 b. account_info : Categorized details of existing accounts of the individuals. The balance of money in account provided is stated by this variable  
 c. duration_month : Duration in months for which the credit is existing    
 d. credit_history : This categorical variable signifies the credit history of the individual who has taken the loan   
