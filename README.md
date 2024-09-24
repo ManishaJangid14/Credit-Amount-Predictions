@@ -59,9 +59,7 @@ s. liables: Signifies number of persons dependent on the applicant
 t. telephone: Signifies if the individual has a telephone or not  
 u. foreigner: Signifies if the individual is a foreigner or not (considering the country of residence of the bank)  
 
-- 
 
-- 
 
 
  
